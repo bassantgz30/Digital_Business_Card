@@ -23,7 +23,12 @@
     width: 150px;
 }
 
+.foot-section {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
 .foot-img {
     width: 50px;
-    position: bottom; 
 }
