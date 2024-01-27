@@ -4,6 +4,9 @@
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
+    color: #2b2839;
+    background-color: #c0ecfc;
+    border-bottom: 7px solid #3c91b0;
 }
 
 .img-section {
@@ -17,8 +20,4 @@
 
 .id-img {
     width: 150px;
-}
-
-.border-blue {
-    border: 1px dotted #58b0d6;
 }
