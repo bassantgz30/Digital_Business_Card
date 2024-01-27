@@ -24,11 +24,8 @@
 }
 
 .foot-section {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-}
-
-.foot-img {
-    width: 50px;
+    width: 100px;
+    background-image: url("../images/footprint.png");
+    background-repeat: space;
+    background-size: contain;
 }
